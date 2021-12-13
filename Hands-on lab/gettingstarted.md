@@ -52,5 +52,5 @@ Duration: 10 mins
 
    ![](media/rg-lob.png "Resource groups")
 
-13. Click on the **hands-on-lab-<inject key="DeploymentID" enableCopy="false"/>** Resource group and confirm whether you have all the below resources deployed successfully.
+13. Click on the **hands-on-lab-<inject key="DeploymentID" enableCopy="false"/>** Resource group and go through the resources deployed in the Resource group
   
